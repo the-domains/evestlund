@@ -1,8 +1,7 @@
 name: evestlund
 favicon: null
-layout_spectrum: 0.20859
-typography_spectrum: 0
-title: eVestlund
+layout_spectrum: 0.13039701175875962
+typography_spectrum: 0.09418056579306722
 cta:
   domain: null
   bucket: null
@@ -22,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.75
+  brandStrength: 0.051626019878312945
   lightness: 0.7432389571331441
-  saturation: 0.5
+  saturation: 0.362715921131894
   rhythmicContrast: 0.711006372468546
 purpose: []
